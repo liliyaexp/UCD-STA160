@@ -1,6 +1,5 @@
-The original data is obtained from the link below and is named petfinder-adoption-prediction.zip:<br>
+The original data is obtained from the link below, named petfinder-adoption-prediction.zip:
 
-        https://www.kaggle.com/c/petfinder-adoption-prediction/data <br>
-and the size is about 2 GB. <br><br>
-
-The dataset contains six different sources of data including csv data, images, metadata images, and sentiment data. 
+        https://www.kaggle.com/c/petfinder-adoption-prediction/data 
+        
+The zip file is about 2 GB, and it contains six different data sources including csv data, images, metadata images, and sentiment data. 
